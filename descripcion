@@ -1,0 +1,16 @@
+
+This data together with geo-json files for each municipality can create maps for each municipality in Mexico.
+
+Content
+This data is public and It can be downloaded from INEGI's Databank (https://www.inegi.org.mx/servicios/api_indicadores.html)
+This dataset contains data identifying each municipality ('Code','Municipality', 'State Code', 'State') and demographic for each municipality.
+The demographic data contains:
+Total Male/Female Population in 2010
+Percentage of Males/Females of 15 to 29 in 2010 and 2015
+Percentage of Males/Females of 60 or more in 2010 and 2015
+Median Male/Female Age in 2010
+Male/Female Births each year from 1994 to 2018
+
+There are a total of 66 columns with no missing values.
+
+
